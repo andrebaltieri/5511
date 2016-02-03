@@ -1,0 +1,17 @@
+{
+  "name": "nodets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-tsc": "^1.1.4",
+    "gulp-watch": "^4.3.5"
+  }
+}
